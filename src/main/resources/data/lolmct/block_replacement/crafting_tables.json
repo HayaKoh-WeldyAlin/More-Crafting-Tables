@@ -50,6 +50,13 @@
       }
     },
     {
+      "structures": "#quad:is/pale_oak",
+      "block_replacement": {
+        "targets": "minecraft:crafting_table",
+        "replacement": "lolmct:pale_oak_crafting_table"
+      }
+    },
+    {
       "structures": "#quad:is/bamboo",
       "block_replacement": {
         "targets": "minecraft:crafting_table",
