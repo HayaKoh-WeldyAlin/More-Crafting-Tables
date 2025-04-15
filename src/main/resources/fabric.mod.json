@@ -25,12 +25,10 @@
 	],
 	"depends": {
 		"fabricloader": ">=${loader_version}",
-		"minecraft": [
-			"1.21.4"
-		],
+		"minecraft": "${minecraft_version}",
 		"java": ">=21",
 		"fabric-api": "*",
-		"quad": ">=${quad_version}"
+		"quad": "${quad_version}"
 	},
 	"custom": {
 		"modmenu": {
